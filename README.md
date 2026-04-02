@@ -78,7 +78,6 @@ no olvides cambiar el App.jsx la parte donde pide el masterkey y el usuario prin
 
 ## Contacto
 
-**Lester David Uicab Gongora** *Ingeniero en Desarrollo y Gestión de Software*
 
 Si estás interesado en este proyecto o requieres soporte técnico, puedes contactarme directamente:
 
